@@ -1,0 +1,93 @@
+.nav-link{
+    font-size: 20px;
+    margin-left: 40px;
+}
+#searchbox{
+    border-radius: 55px;
+    position: relative;
+}
+#btt{
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 5px; 
+    color: black;
+}
+#btt2{
+    position: absolute;
+    margin-left: 320px; 
+    margin-top: 5px; 
+    color: black;
+}
+
+/* body */
+.jisoo img{
+    width: 100%;
+    object-fit: contain;
+
+}
+h1{
+    margin-top: 20px;
+}
+.card-deck{
+    margin-top: 70px;
+}
+img{
+    width: 100%;
+    object-fit: contain;
+}
+.card-columns {
+    height: 80%;
+}
+.form-inline my-2 my-lg-0{
+    border-radius: 30px;
+}
+
+/*footer*/
+.footer__contact{
+    display: flex;
+    padding: 0 50px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.contact{
+    text-transform: uppercase;
+}
+
+.contact h2 i{
+    color: red;
+}
+
+.contact p{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.box__email{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box__dk{
+    width: 60%;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.button{
+    width: 38%;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.button p{
+    margin: 0;
+    padding: 5px;
+}
+
+.list__icon{
+    display: flex;
+    justify-content: space-around;
+}
